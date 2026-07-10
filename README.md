@@ -30,7 +30,7 @@ _Last updated during GitHub Actions laboratory._
 
 Contributor Update
 
-Contributor Name: 
+Contributor Name: Caleb Joshua Garcia
 
 Feature Added:
 - Digital Library Dashboard
