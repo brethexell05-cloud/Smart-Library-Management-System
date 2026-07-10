@@ -27,3 +27,10 @@ Features
 - Search Member
 
 _Last updated during GitHub Actions laboratory._
+
+Contributor Update
+
+Contributor Name: Caleb Joshua Garcia
+
+Feature Added:
+- Digital Library Dashboard
